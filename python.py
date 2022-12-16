@@ -435,7 +435,7 @@ add(1, 2)  # 3
 numbers = [1, 2, 3, 4, 5, 6]
 doubled_numbers = list(map(lambda x: x**2, numbers))  # [1, 4, 9, 16, 25, 36]
 
-################ PY SOLUTIONS TO KNOW WELL ##################
+################ PY SOLUTIONS TO KNOW ##################
 # todo Palindrome
 
 # todo FizzBuzz
