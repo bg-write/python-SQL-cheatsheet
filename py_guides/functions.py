@@ -1,3 +1,9 @@
+"""
+
+How to write a typical function
+"""
+
+
 def spam():
     eggs = 10
     return eggs

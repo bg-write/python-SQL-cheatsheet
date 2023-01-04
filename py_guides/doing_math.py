@@ -1,4 +1,7 @@
-# math operations
+"""
+
+Math operations
+"""
 add = 3 + 2
 subtract = 3 - 2
 multiply = 3 * 2

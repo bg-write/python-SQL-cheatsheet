@@ -1,3 +1,7 @@
+"""
+
+if, elif, else, ternary, for, while, range
+"""
 # if, elif, else expressions (only use what you need)
 floor = 'sticky'
 if floor == 'sticky':

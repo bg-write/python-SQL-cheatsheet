@@ -1,6 +1,9 @@
-# Like lists, but immutable once made
-# list: good for similar data types
-# tuples: good for different data types
+"""
+
+Tuples are like lists, but they're immutable once made
+list: good for similar data types
+tuples: good for different data types
+"""
 states = ('indiana', 'new york', 'illinois')
 len(states)  # 3
 

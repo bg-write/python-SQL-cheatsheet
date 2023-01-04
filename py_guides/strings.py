@@ -1,3 +1,7 @@
+"""
+
+Playing with words
+"""
 # combining (concatenating) strings
 little_str = 'bad'
 big_str = 'super'

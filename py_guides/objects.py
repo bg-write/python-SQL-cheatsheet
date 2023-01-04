@@ -1,4 +1,7 @@
-# listing an object's members (attributes and methods)
+"""
+
+Objects can include and list attributes and methods
+"""
 # __methods__ are called "magic" (dunder) methods
 pizza_toppings = ['cheese', 'pepperoni', 'fish']
 dir(pizza_toppings)

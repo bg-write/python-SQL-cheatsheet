@@ -1,4 +1,7 @@
-# Python's objects w/ key-value pairs)
+"""
+
+Python's objects w/ key-value pairs)
+"""
 student = {
     'name': 'Brady',
     'favorite_color': 'Blue',

@@ -1,5 +1,8 @@
-# overall Python syntax for variables
-# case sensitive, follows snake_case
+"""
+
+overall Python syntax for variables
+case sensitive, follows snake_case
+"""
 py_variable = 'value'
 
 # data types

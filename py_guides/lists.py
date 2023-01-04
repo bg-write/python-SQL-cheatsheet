@@ -1,4 +1,8 @@
-# Python's arrays
+
+"""
+
+Python's arrays
+"""
 colors = ['red', 'green', 'blue']
 
 # retrieve number of items in a list
