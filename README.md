@@ -8,7 +8,7 @@
 
 Python is a high-level interpreted and object-oriented programming language. Like JavaScript, it doesn't have to be compiled before it can be executed - it runs within an interpreter that handles the conversion into machine code.
 
-SQL (Structured Query Language) (pronounced "sequel") is the language we use to manage structured data, and communicate with relational databases.
+SQL (Structured Query Language) (pronounced "sequel") is how we manage structured data and communicate with relational databases.
 
 ---
 
