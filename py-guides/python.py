@@ -1,33 +1,5 @@
-'''
-PYTHON
-A high-level interpreted programming language
-
-Like JavaScript, Python is a dynamic scripting language that doesn't have to be compiled before it can be executed - it runs within an interpreter that handles the conversion into machine code
-
-Python is an Object-Oriented Programming (OOP) Language: programming with objects representing the real-world objects of an app
-
-In other words, everything in Python is an object
-
-Common for server side applications, big data analysis, and machine learning, and can make web apps with Django and Flask
-
-Can make ".py" or ".ipynb" files
-
-Table of Contents:
-THE VERY BASICS
-VARIABLES, DATA AND VALUES
-DOING MATH
-PLAYING WITH STRINGS (WORDS)
-EXPRESSIONS AND LOOPS
-DICTIONARIES
-LISTS
-TUPLES
-OBJECTS, CLASSES, AND OOP
-FUNCTIONS
-'''
-
 ################## THE VERY BASICS ##########################
 # this is a comment
-
 '''
 this is a comment,
 with multiple lines,
@@ -50,9 +22,8 @@ str = 'hello'
 bool = True
 int = 15
 float = 3.14
-complex = 3+4j  # "j" filling in for the square root of a negative number
+complex = 3 + 4j  # "j" filling in for the square root of a negative number
 none_type = None  # like JS "null", nothingness
-
 '''
 "falsey" values in Python:
 False
@@ -69,7 +40,7 @@ multiply = 3 * 2
 divide = 3 / 2  # 1.5
 quotient = 3 // 2  # 1, always rounding down
 modulo_remainder = 3 % 2  # returns the remainder of dividing two numbers
-exponentiation = 3 ** 2  # like 3^2
+exponentiation = 3**2  # like 3^2
 
 ############# PLAYING WITH STRINGS (WORDS) ##################
 # combining (concatenating) strings
@@ -96,7 +67,6 @@ str_len = len('tacos')  # 5
 str_brackets = 'course'
 print(str_brackets[1])  # o
 print(str_brackets[-1])  # e
-
 '''
 Operators:
 < - less than
@@ -182,8 +152,8 @@ student = {
     'age': 30
 }  # {'name': 'Brady', 'favorite_color': 'Blue', 'age': 30}
 student_name = student['name']  # Brady
-student.keys() # dict_keys(['name', 'favorite_color', 'age'])
-student.values() # dict_values(['Brady', 'Blue', 30])
+student.keys()  # dict_keys(['name', 'favorite_color', 'age'])
+student.values()  # dict_values(['Brady', 'Blue', 30])
 
 # changing values in a dict
 student['name'] = 'Bradly'  # sets the "name" value to now be "Bradly"
@@ -323,7 +293,7 @@ states = ('indiana', 'new york', 'illinois')
 len(states)  # 3
 
 # if trying to create a 1-tuple
-hello_tuple = ('Hello',)
+hello_tuple = ('Hello', )
 
 # accessing items in a tuple
 states[1]  # new york
@@ -397,6 +367,7 @@ Dog.get_total_dogs()  # 2
 
 
 class ShowDog(Dog):
+
     def __init__(self, name, age=0, total_earnings=0):
         Dog.__init__(self, name, age)  # init the old from superclass
         self.total_earnings = total_earnings  # then add in the new
@@ -441,15 +412,3 @@ doubled_numbers = list(map(lambda x: x**2, numbers))  # [1, 4, 9, 16, 25, 36]
 # todo FizzBuzz
 
 # todo Fibonacci
-
-################# Thank you for reading :) ##################
-
-'''
-Helpful Python links
-Official Python website https://www.python.org/
-Python in 100 Seconds https://www.youtube.com/watch?v=x7X9w_GIm1s
-Python tutorials https://realpython.com/
-Another Python cheatsheet https://devhints.io/python
-
-Thank you, General Assembly!
-'''
