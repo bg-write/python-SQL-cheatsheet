@@ -1,33 +1,3 @@
-############ VARIABLES, DATA AND VALUES #####################
-# overall Python syntax for variables
-# case sensitive, follows snake_case
-py_variable = 'value'
-
-# data types
-str = 'hello'
-bool = True
-int = 15
-float = 3.14
-complex = 3 + 4j  # "j" filling in for the square root of a negative number
-none_type = None  # like JS "null", nothingness
-'''
-"falsey" values in Python:
-False
-None
-0, 0.0, 0j
-'', [], (), {}, range(0)
-'''
-
-################### DOING MATH ##############################
-# math operations
-add = 3 + 2
-subtract = 3 - 2
-multiply = 3 * 2
-divide = 3 / 2  # 1.5
-quotient = 3 // 2  # 1, always rounding down
-modulo_remainder = 3 % 2  # returns the remainder of dividing two numbers
-exponentiation = 3**2  # like 3^2
-
 ############# PLAYING WITH STRINGS (WORDS) ##################
 # combining (concatenating) strings
 little_str = 'bad'

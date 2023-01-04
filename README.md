@@ -20,7 +20,7 @@ WINTER 2023: My focus is fleshing out my notes on Python before moving on to SQL
 
 ## Python Topics Covered
 
-- The Very Basics
+- The Very Basics (writing comments & print)
 - Variables, Data, and Values
 - Doing Math
 - Playing with Strings
