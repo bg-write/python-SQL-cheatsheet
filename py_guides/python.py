@@ -1,17 +1,3 @@
-################## THE VERY BASICS ##########################
-# this is a comment
-'''
-this is a comment,
-with multiple lines,
-sometimes known as "docstrings"
-'''
-
-# to call the script in the terminal
-# > python3 python.py (or whatever <filename> you have)
-
-# print(), essentially's Python's console.log()
-print('Hello, World')  # Hello, World
-
 ############ VARIABLES, DATA AND VALUES #####################
 # overall Python syntax for variables
 # case sensitive, follows snake_case

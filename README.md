@@ -6,32 +6,34 @@
 
 ## Python & SQL in Three Sentences
 
-Python is a high-level interpreted and object-oriented programming language; like JavaScript, it doesn't have to be compiled before it can be executed because it runs within an interpreter that handles the conversion into machine code.
+Python is a high-level interpreted and object-oriented programming language. Like JavaScript, it doesn't have to be compiled before it can be executed - it runs within an interpreter that handles the conversion into machine code.
 
 SQL (Structured Query Language) (pronounced "sequel") is the language we use to manage structured data, and communicate with relational databases.
-
-Both go well together!
 
 ---
 
 ## Getting Started
 
-In the `py-guides` and `sql-guides` folders, you'll find topics divided into different files. This guide is not meant to be deployed.
+In the `py_guides` and `sql_guides` folders, you'll find topics divided into different files. This guide is not meant to be deployed.
 
 WINTER 2023: My focus is fleshing out my notes on Python before moving on to SQL.
 
 ## Python Topics Covered
 
-- THE VERY BASICS
-- VARIABLES, DATA AND VALUES
-- DOING MATH
-- PLAYING WITH STRINGS (WORDS)
-- EXPRESSIONS AND LOOPS
-- DICTIONARIES
-- LISTS
-- TUPLES
-- OBJECTS, CLASSES, AND OOP
-- FUNCTIONS
+- The Very Basics
+- Variables, Data, and Values
+- Doing Math
+- Playing with Strings
+- Expressions & Loops
+- Dictionaries
+- Lists
+- Tuples
+- Objects, Classes, and OOP
+- Functions
+- Simple PY solutions to Popular Technical Challenges
+  - Palindrome
+  - Fizzbuzz
+  - Fibonacci
 
 ## Python Topics to Add
 
@@ -70,6 +72,12 @@ No Lighthouse reports were run due to lack of deployment for this guide.
 ### Testing
 
 TBD
+
+---
+
+## SQL Cheatsheet Style Guide
+
+SQL guide is forthcoming, as well as notes on accessibility and testing.
 
 ---
 
