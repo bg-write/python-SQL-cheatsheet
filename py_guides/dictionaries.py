@@ -21,7 +21,6 @@ else:
     print(f"{student['name']} doesn't have a favorite color")
 
 # adding items to a dict
-# {'name': 'Bradly', 'favorite_color': 'Blue', 'age': 30, 'location': 'North Campus'}
 student['location'] = 'North Campus'
 
 # deleting items from a dict
