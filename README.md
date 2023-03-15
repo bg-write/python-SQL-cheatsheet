@@ -6,15 +6,15 @@
 
 ## Python & SQL in Three Sentences
 
-Python is a high-level interpreted and object-oriented programming language. Like JavaScript, it doesn't have to be compiled before it can be executed - it runs within an interpreter (the Python Shell) that handles the conversion into machine code.
+Python is a high-level interpreted and object-oriented programming language. Like JavaScript, it doesn't have to be compiled before it can be executed - it runs within an interpreter (like the Python Shell) that handles the conversion into machine code.
 
-SQL (Structured Query Language) (pronounced "sequel") is how we manage structured data and communicate with relational databases.
+SQL (Structured Query Language, pronounced "sequel") is how we manage structured data and communicate with relational databases.
 
 ---
 
 ## Python in More Details
 
-Via [Asabeneh's helpful "30 Days of Python" repo](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/readme.md)
+Via [Asabeneh's helpful "30 Days of Python" repo](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/readme.md):
 
 "Python is a high-level programming language for general-purpose programming. It is an open source, interpreted, objected-oriented programming language. Python was created by a Dutch programmer, Guido van Rossum. The name of Python programming language was derived from a British sketch comedy series, Month Python's Flying Circus. The first version was released on February 20, 1991."
 
@@ -22,9 +22,7 @@ Via [Asabeneh's helpful "30 Days of Python" repo](https://github.com/Asabeneh/30
 
 ## Getting Started
 
-In the `py_guides` and `sql_guides` folders, you'll find topics divided into different files. This guide is not meant to be deployed.
-
-WINTER 2023: My focus is fleshing out my notes on Python before moving on to SQL.
+In the `py_guides` and `sql_guides` folders, you'll find topics divided into different files. This guide is not meant to be deployed. My focus is fleshing out my notes on Python before moving on to SQL.
 
 Also, make sure you [first download Python](https://www.python.org/) and learn how to set up the Python Shell (instructions to come).
 
@@ -61,7 +59,7 @@ The Python guide follows [Google's Python style guide](https://google.github.io/
 
 ## SQL Cheatsheet Style Guide
 
-SQL guide is forthcoming, as well as notes on accessibility and testing.
+An SQL guide is forthcoming, as well as notes on accessibility and testing.
 
 ---
 
