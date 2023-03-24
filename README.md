@@ -39,9 +39,6 @@ Also, make sure you [first download Python](https://www.python.org/) and learn h
 - Objects, Classes, and OOP
 - Functions
 - Simple PY solutions to Popular Technical Challenges
-  - Palindrome
-  - Fizzbuzz
-  - Fibonacci
 
 This guide doesn't include everything to know. It is, however, a great place to start.
 

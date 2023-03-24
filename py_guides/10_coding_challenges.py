@@ -1,3 +1,10 @@
+"""TABLE OF CONTENTS
+-Palindrome
+-FizzBuzz
+-Fibonacci
+-Reverse String
+"""
+
 # ---------------------------------------------------
 # Palindrome
 # Check if a string is spelled the same both forward and backward, ignoring case and non-alphanumeric characters (punctuation, spaces, symbols)
@@ -28,6 +35,21 @@ for num in range(1, 16):
     else:
         str = num
     print(str)
+# 1
+# 2
+# 3
+# 4
+# Buzz
+# 6
+# 7
+# 8
+# 9
+# Buzz
+# 11
+# 12
+# 13
+# 14
+# FizzBuzz
 
 # ---------------------------------------------------
 # Fibonacci
@@ -50,17 +72,6 @@ fibonacci(5)  # 5
 fibonacci(6)  # 8
 
 # ---------------------------------------------------
-# Euclidian Distance
-# Find an Euclidian distance between (2, 3) and (10, 8) aka find the shortest distance between two or more points in two or more dimensions
-
-from math import dist
-
-point_1 = (2, 3)
-point_2 = (10, 8)
-euclidian_distance = dist(point_1, point_2)
-# 9.433981132056603
-
-# ---------------------------------------------------
 # Reverse String
 # Write a function that reverses a string.
 # The input string is given as an array of characters s.
@@ -74,8 +85,8 @@ def reverse_string(s):
     return s[::-1]
 
 
-print(reverse_string(s1))  # ['o', 'l', 'l', 'e', 'h']
-print(reverse_string(s2))  # ['h', 'a', 'n', 'n', 'a', 'H']
+reverse_string(s1)  # ['o', 'l', 'l', 'e', 'h']
+reverse_string(s2)  # ['h', 'a', 'n', 'n', 'a', 'H']
 
 # ---------------------------------------------------
 # TBD
